@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Task 2.1. Name, age, and annual income"/>
+	<classpathentry kind="src" path="Task 2.2. Name and initials"/>
+	<classpathentry kind="src" path="Task 2.3. Personal information"/>
+	<classpathentry kind="src" path="Task 2.4. Star pattern"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
