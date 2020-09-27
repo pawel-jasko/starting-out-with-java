@@ -6,13 +6,13 @@
  * 
  * "Write a program that displays the following pattern:  
  *  		
- *  			*  
- * 			   *** 
- * 			  *****
- * 			 *******
- *		      *****  
- *             *** 
- *              *"
+ *  		   *  
+ * 		  *** 
+ * 		 *****
+ * 		*******
+ * 		 *****  
+ * 		  *** 
+ * 		   *"
  */
 
 public class StarPattern {
