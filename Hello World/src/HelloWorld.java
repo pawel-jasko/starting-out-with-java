@@ -1,5 +1,5 @@
 // Classic way to kick-off any programming journey
-// and here also a hello to GitHub
+// and here also a hello to GitHub.
 
 public class HelloWorld {
 	
