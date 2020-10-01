@@ -48,9 +48,9 @@ public class MaleFemaleRatioCalculator {
 		
 		maleParticipantsPercentage = Math.round(maleParticipantsPercentage);
 
-		//Math.round() is used to even out the result of the calculation
-		
 		femaleParticipantsPercentage = ((double)numberOfWomen / totalNumberOfParticipants) * 100;
+		
+		//Math.round() is used to even out the result of the calculation
 		
 		femaleParticipantsPercentage = Math.round(femaleParticipantsPercentage);
 		
